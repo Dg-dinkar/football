@@ -1,0 +1,9 @@
+com/sap/api/response/LeagueApiResponse.class
+com/sap/api/response/common/HttpConnectionClient.class
+com/sap/controller/MainController.class
+com/sap/Application.class
+com/sap/api/response/FootballApiResponse.class
+com/sap/api/response/Standings.class
+com/sap/model/Teams.class
+com/sap/service/FootballService.class
+com/sap/api/response/LeagueResponse.class
